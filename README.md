@@ -35,7 +35,7 @@ This project is a text-based Role Playing Game (RPG) built with Python. The game
 Clone this repository and navigate into the project directory. Run the game using Python 3.
 
 ```bash
-git clone https://github.com/yourusername/text-based-rpg.git
+git clone https://github.com/Z8phyR/TextRPG.git
 cd text-based-rpg
 python main.py
 ```
@@ -51,11 +51,6 @@ Game Commands:
 - `ability`: To use a special ability
 - `use`: To use an item from the inventory
 - `flee`: To run away from a battle
-
-## Screenshots
-
-![Game Start](./screenshots/start.png)
-![Battle](./screenshots/battle.png)
 
 ## Code Examples
 
