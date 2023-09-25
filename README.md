@@ -7,7 +7,6 @@
 - [Tech Stack](#tech-stack)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Screenshots](#screenshots)
 - [Code Examples](#code-examples)
 - [Challenges](#challenges)
 - [What I Learned](#what-i-learned)
